@@ -57,8 +57,8 @@
       "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/BCETFiXz/better-clouds-1.3.13%2B1.20.1.jar"
     },
     "BetterCompatibilityChecker": {
-      "file": "BetterCompatibilityChecker-fabric-4.0.8%2Bmc1.20.1.jar",
-      "url": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Shreider/ShredierPack-1.20.1/blob/main/BetterCompatibilityChecker-fabric-4.0.8%2Bmc1.20.1.jar"
+      "file": "BetterCompatibilityChecker-fabric-4.0.8+mc1.20.1.jarr",
+      "url": "https://github.com/Shreider/ShredierPack-1.20.1/raw/main/BetterCompatibilityChecker-fabric-4.0.8+mc1.20.1.jar"
     },
     "BetterEnd": {
       "file": "better-end-4.0.11.jar",
@@ -92,21 +92,21 @@
       "file": "cat_jam-fabric-mc1.20-1.2.1.jar",
       "url": "https://cdn.modrinth.com/data/x3s69afN/versions/D5INFJwK/cat_jam-fabric-mc1.20-1.2.1.jar"
     },
-    "": {
-      "file": "",
-      "url": ""
+    "CauldronDyeing": {
+      "file": "cauldron-dyeing-1.0.11.jar",
+      "url": "https://cdn.modrinth.com/data/5AgJnN8I/versions/SiWMaAL9/cauldron-dyeing-1.0.11.jar"
     },
-    "": {
-      "file": "",
-      "url": ""
+    "CharmOfUndying": {
+      "file": "charmofundying-fabric-6.4.5+1.20.1.jar",
+      "url": "https://github.com/Shreider/ShredierPack-1.20.1/raw/main/charmofundying-fabric-6.4.5+1.20.1.jar"
     },
-    "": {
-      "file": "",
-      "url": ""
+    "Charmonium": {
+      "file": "charmonium-fabric-1.20.1-6.0.7.jar",
+      "url": "https://cdn.modrinth.com/data/bpii4Xsa/versions/zGytYDIS/charmonium-fabric-1.20.1-6.0.7.jar"
     },
-    "": {
-      "file": "",
-      "url": ""
+    "ChatHeads": {
+      "file": "chat_heads-0.10.30-fabric-1.20.jar",
+      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/N6Cgb8gp/chat_heads-0.10.30-fabric-1.20.jar"
     },
     "": {
       "file": "",
