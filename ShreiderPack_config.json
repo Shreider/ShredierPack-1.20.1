@@ -1,10 +1,12 @@
 {
-  "ModMenu": {
-    "file": "modmenu-9.0.0.jar",
-    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/sjtVVlsA/modmenu-9.0.0.jar"
-  },
-  "Continuity": {
-    "file": "continuity-3.0.0-beta.4+1.20.2.jar",
-    "url": "https://cdn.modrinth.com/data/1IjD5062/versions/JXhQlDZl/continuity-3.0.0-beta.4%2B1.20.2.jar"
+  "Mods": {
+    "ModMenu": {
+      "file": "modmenu-9.0.0.jar",
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/sjtVVlsA/modmenu-9.0.0.jar"
+    },
+    "Continuity": {
+      "file": "continuity-3.0.0-beta.4+1.20.2.jar",
+      "url": "https://cdn.modrinth.com/data/1IjD5062/versions/JXhQlDZl/continuity-3.0.0-beta.4%2B1.20.2.jar"
+    }
   }
 }
