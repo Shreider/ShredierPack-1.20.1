@@ -432,21 +432,65 @@
       "file": "waveycapes-fabric-1.4.0-mc1.20.jar",
       "url": "https://cdn.modrinth.com/data/kYuIpRLv/versions/9ppedk6Z/waveycapes-fabric-1.4.0-mc1.20.jar"
     },
-    "": {  
-      "file": "",
-      "url": ""
+    "YDMsWeaponMaster": {  
+      "file": "weaponmaster-multi-fabric-1.20.1-3.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/qi1sj2da/versions/Rlibe5iI/weaponmaster-multi-fabric-1.20.1-3.0.5.jar"
     },
-    "": {  
-      "file": "",
-      "url": ""
+    "WilderWild": {  
+      "file": "WilderWild-2.2.3-Fabric%2B1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/AtHRJSUW/versions/IDrnbI2e/WilderWild-2.2.3-Fabric%2B1.20.1.jar"
     },
-    "": {  
-      "file": "",
-      "url": ""
+    "WTHIT": {  
+      "file": "wthit-fabric-8.5.0.jar",
+      "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/nXmDNIb9/wthit-fabric-8.5.0.jar"
     },
-    "": {  
-      "file": "",
-      "url": ""
+    "YetAnotherConfigLib": {  
+      "file": "yet-another-config-lib-fabric-3.2.1%2B1.20.jar",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/3hsIB5yP/yet-another-config-lib-fabric-3.2.1%2B1.20.jar"
     },
+    "YungsAPI": {  
+      "file": "YungsApi-1.20-Fabric-4.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/TT8tnzlH/YungsApi-1.20-Fabric-4.0.2.jar"
+    },
+    "YungsBetterDesertTemples": {  
+      "file": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/1Z9HNWpj/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar"
+    },
+    "YungsBetterDungeons": {  
+      "file": "YungsBetterDungeons-1.20-Fabric-4.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/bSSS84Op/YungsBetterDungeons-1.20-Fabric-4.0.3.jar"
+    },
+    "YungsBetterEndIsland": {  
+      "file": "YungsBetterEndIsland-1.20-Fabric-2.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/AlE4iEnJ/YungsBetterEndIsland-1.20-Fabric-2.0.4.jar"
+    },
+    "YungsBetterJungleTemples": {  
+      "file": "YungsBetterJungleTemples-1.20-Fabric-2.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/z9Ve58Ih/versions/KrGANMei/YungsBetterJungleTemples-1.20-Fabric-2.0.4.jar"
+    },
+    "YungsBetterStrongholds": {  
+      "file": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/kidLKymU/versions/yV6hn0bB/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
+    },
+    "YungsExtras": {  
+      "file": "YungsExtras-1.20-Fabric-4.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/pfVTUz1L/YungsExtras-1.20-Fabric-4.0.3.jar"
+    },
+    "YungsBetterWitchHuts": {  
+      "file": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.ja",
+      "url": "https://cdn.modrinth.com/data/t5FRdP87/versions/lYpHN3iF/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar"
+    },
+    "YungsBetterOceanMonuments": {  
+      "file": "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/4c00pjbt/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar"
+    },
+    "YungsBetterNetherFortresses": {  
+      "file": "YungsBetterNetherFortresses-1.20-Fabric-2.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/Z2mXHnxP/versions/lrZS6PH1/YungsBetterNetherFortresses-1.20-Fabric-2.0.5.jar"
+    },
+    "YungsBetterMineshafts": {  
+      "file": "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/HjmxVlSr/versions/qLnQnqXS/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
+    }
   }
 }
