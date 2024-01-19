@@ -388,6 +388,54 @@
       "file": "tidal-towns-1.2.jar",
       "url": "https://cdn.modrinth.com/data/EEIwvQVo/versions/9rGNfR18/tidal-towns-1.2.jar"
     },
+    "TownsAndTowers": {  
+      "file": "Towns-and-Towers-1.12-Fabric%2BForge.jar",
+      "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/7ZwnSrVW/Towns-and-Towers-1.12-Fabric%2BForge.jar"
+    },
+    "TravelersTitles": {  
+      "file": "TravelersTitles-1.20-Fabric-4.0.1.jar",
+      "url": "https://cdn.modrinth.com/data/JtifUr64/versions/xcHI86YI/TravelersTitles-1.20-Fabric-4.0.1.jar"
+    },
+    "Traverse": {  
+      "file": "traverse-7.0.11.jar",
+      "url": "https://cdn.modrinth.com/data/kXygSBVI/versions/OLnGR4Nz/traverse-7.0.11.jar"
+    },
+    "Trinkets": {  
+      "file": "trinkets-3.7.1.jar",
+      "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/e563ycts/trinkets-3.7.1.jar"
+    },
+    "UndergroundVillages": {  
+      "file": "UndergroundVillages-fabric-1.20.1-2.1.0.jar",
+      "url": "https://cdn.modrinth.com/data/iQ2U9xwG/versions/Xt5gPHu2/UndergroundVillages-fabric-1.20.1-2.1.0.jar"
+    },
+    "UniversalOres": {  
+      "file": "universal_ores-1.5.2.jar",
+      "url": "https://cdn.modrinth.com/data/68kWHuUF/versions/bEdg7gJy/universal_ores-1.5.2.jar"
+    },
+    "VanillaRefresh": {  
+      "file": "vanilla-refresh-1.4.19a.jar",
+      "url": "https://cdn.modrinth.com/data/gWO6Zqey/versions/HT6gTdM1/vanilla-refresh-1.4.19a.jar"
+    },
+    "VisualWorkbench": {  
+      "file": "VisualWorkbench-v8.0.0-1.20.1-Fabric.jar",
+      "url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/vhuwOiNO/VisualWorkbench-v8.0.0-1.20.1-Fabric.jar"
+    },
+    "SimpleVoiceChat": {  
+      "file": "voicechat-fabric-1.20.1-2.4.32.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/r5GmfR2B/voicechat-fabric-1.20.1-2.4.32.jar"
+    },
+    "Wakes": {  
+      "file": "wakes-0.2.3.jar",
+      "url": "https://cdn.modrinth.com/data/dlNu0RQY/versions/SMVe5Pks/wakes-0.2.3.jar"
+    },
+    "WaveyCapes": {  
+      "file": "waveycapes-fabric-1.4.0-mc1.20.jar",
+      "url": "https://cdn.modrinth.com/data/kYuIpRLv/versions/9ppedk6Z/waveycapes-fabric-1.4.0-mc1.20.jar"
+    },
+    "": {  
+      "file": "",
+      "url": ""
+    },
     "": {  
       "file": "",
       "url": ""
