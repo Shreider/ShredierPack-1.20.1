@@ -59,6 +59,82 @@
     "BetterCompatibilityChecker": {
       "file": "BetterCompatibilityChecker-fabric-4.0.8%2Bmc1.20.1.jar",
       "url": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Shreider/ShredierPack-1.20.1/blob/main/BetterCompatibilityChecker-fabric-4.0.8%2Bmc1.20.1.jar"
-    }
+    },
+    "BetterEnd": {
+      "file": "better-end-4.0.11.jar",
+      "url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/7QwyTILr/better-end-4.0.11.jar"
+    },
+    "BetterF3": {
+      "file": "BetterF3-7.0.2-Fabric-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/7WkFnw9F/BetterF3-7.0.2-Fabric-1.20.1.jar"
+    },
+    "BetterNether": {
+      "file": "better-nether-9.0.10.jar",
+      "url": "https://cdn.modrinth.com/data/MpzVLzy5/versions/IG7kgtJH/better-nether-9.0.10.jar"
+    },
+    "BetterTrims": {
+      "file": "bettertrims-2.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/98ytUvlc/versions/UStV1nrO/bettertrims-2.0.5.jar"
+    },
+    "Blur": {
+      "file": "blur-3.1.0.jar",
+      "url": "https://cdn.modrinth.com/data/NK39zBp2/versions/dki8Ab2D/blur-3.1.0.jar"
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
+    "": {
+      "file": "",
+      "url": ""
+    },
   }
 }
