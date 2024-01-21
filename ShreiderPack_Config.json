@@ -511,6 +511,6 @@
   },
   "Config": {
     "file": "configs.zip",
-    "url": ""
+    "url": "testURL"
   }
 }
