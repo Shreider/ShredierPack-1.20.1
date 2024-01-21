@@ -508,5 +508,8 @@
       "file": "elytraslot-fabric-6.3.0%2B1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/6uCj1VmZ/elytraslot-fabric-6.3.0%2B1.20.1.jar"
     }
-  }
+  },
+  "Config": {
+    "file": "configs.zip",
+    "url": ""
 }
